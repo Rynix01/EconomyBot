@@ -1,6 +1,7 @@
 # EconomyBot
 **This Economy bot was created by Frousk#0001**
 
+**Rynix Tarafından Türkçeye Çevrilmiştir Altyapı Frousk#0001'e aittir
 **IN BOTCONFIG.JSON DO NOT CHANGE ANY VARIABLE THE CountChannel var is for if you want to set a channel to count for users if not just leave it blank AND EVERYTHING ELSE IS SELF EXPLAINATORY JUST CHANGE THE VALUES 
 INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!**
 # Links
